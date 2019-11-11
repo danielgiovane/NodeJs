@@ -1,0 +1,2 @@
+** Node.js é um interpretador de javascript que roda fora dos navegadores.
+** O Node.js é uma tecnologia muito rapido, esta entre as 10 mais rapidas linguagens web.

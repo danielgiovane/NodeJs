@@ -1,0 +1,15 @@
+{
+  "name": "iniciando",
+  "version": "0.0.1",
+  "description": "iniciando com express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Daniel Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
